@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "Name:Ambreen a"
+=======
+"Name:a ali
+>>>>>>> 377c3b46ad54235aec8defad1d2fc261804e279d
 email:iamambreenali@gmail.com
 studying bscs in ucp
